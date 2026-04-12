@@ -1,23 +1,33 @@
 # git-practice
 
-GitHubの基本操作を練習するためのリポジトリです。  
-この課題では、以下の流れを体験します。
+Git / GitHub の基本操作を練習するためのリポジトリです。
 
-- リポジトリを clone する
-- branch を作成する
-- ファイルを編集する
-- commit する
-- push する
-- Pull Request を作成する
+## この課題でやること
 
-## 練習内容
+1. このリポジトリを **fork** する
+2. forkしたリポジトリを **clone** する
+3. branch を作成する
+4. フォルダ名を自分の出席番号に変更する
+5. ファイルを編集する
+6. commit / push する
+7. Pull Request を作成する
 
-1. このリポジトリを clone します
-2. 自分の branch を作成します
-3. `students` フォルダの中に、自分の出席番号のフォルダを作成します
-4. `index.html` を参考にして、自分のファイルを作成・編集します
-5. commit して push します
-6. Pull Request を作成します
+---
+
+## 作業手順
+
+### ① fork
+右上の「Fork」を押す
+
+---
+
+### ② clone
+自分のリポジトリを clone する
+
+---
+
+### ③ branch作成
+自分の名前などで branch を作る
 
 ## branch名
 

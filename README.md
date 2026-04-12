@@ -12,49 +12,37 @@ Git / GitHub の基本操作を練習するためのリポジトリです。
 6. commit / push する
 7. Pull Request を作成する
 
----
-
 ## 作業手順
 
 ### ① fork
 右上の「Fork」を押す
 
----
-
 ### ② clone
 自分のリポジトリを clone する
-
----
 
 ### ③ branch作成
 自分の名前などで branch を作る
 
-## branch名
-
-branch名は自分の氏名、または分かりやすい名前にしてください。
-
-例
-
 - `yamada`
-- `tanaka`
-- `suzuki`
 
-## フォルダ作成ルール
+### ④ フォルダ名変更
 
-`students` フォルダの中に、自分の出席番号のフォルダを作成してください。
+students/00/を自分の出席番号に変更
 
-例
+### ⑤ 編集
 
-- `students/01/`
-- `students/02/`
-- `students/03/`
+`index.html` を開いて内容を書き換える
 
-## 提出方法
+### ⑥ commit / push
 
-Pull Request を作成した時点で提出とします。
+### ⑦ Pull Request
+元のリポジトリに向けて PR を作成する
+
+## 提出
+Pull Request を作成したら提出とする
 
 ## 注意
 
-- `main` ブランチでは作業しないこと
-- 他の人のフォルダやファイルは触らないこと
-- merge はしなくてよいです
+- mainブランチでは作業しない
+- 必ずbranchを作る
+- mergeはしなくてよい
